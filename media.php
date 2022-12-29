@@ -107,6 +107,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
 
+                 <div class="pro-each-project-content-cont">
+                    <div class="pro-each-project-content-inner-cont">
+                        <h1 class="pro-each-project-heading">Accelerate Your IoT Product Development Journey</h1>
+                        <p class="pro-each-project-description">The world requirement for IoT devices is continuously increasing around all sectors, industrial verticals, enterprises, and home applications.</p>
+                    </div>
+                    
+                    <div class="pro-each-project-btn-cont">
+                        <a href="accelerate-your-iot-product-development-journey" target="_blank">
+                            <button class="pro-each-project-btn">Read more</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
             <div class="pro-each-project-main-cont wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
                 <div class="pro-each-project-img-cont">
                     <img src="images/media/media-02.jpg" class="media-02" />
